@@ -12,4 +12,4 @@
 - https://github.com/nccgroup/GOATCasino
 
 ## General Solidity Resources
-- (Ethereum Book)[https://github.com/ethereumbook/ethereumbook]
+- [Ethereum Book](https://github.com/ethereumbook/ethereumbook)
