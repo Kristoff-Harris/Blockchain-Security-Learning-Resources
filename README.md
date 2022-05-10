@@ -1,4 +1,4 @@
-# Solidity-Security-Learning-Resources
+# Solidity Security Learning Resources
 
 
 ## Overview of Pervasive Issues
@@ -10,3 +10,6 @@
 - https://ethernaut.openzeppelin.com/
 - https://capturetheether.com/
 - https://github.com/nccgroup/GOATCasino
+
+## General Solidity Resources
+- (Ethereum Book)[https://github.com/ethereumbook/ethereumbook]
