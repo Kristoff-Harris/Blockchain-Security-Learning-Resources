@@ -2,7 +2,8 @@
 
 
 ## Overview of Pervasive Issues
-- https://dasp.co/
+- [Solidity Security by Sigp](https://github.com/sigp/solidity-security-blog)
+- [NCC Group Top Dapp Security Issues](https://dasp.co/)
 
 
 ## CTF's:
