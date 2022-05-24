@@ -5,6 +5,9 @@
 - [Solidity Security by Sigp](https://github.com/sigp/solidity-security-blog)
 - [NCC Group Top Dapp Security Issues](https://dasp.co/)
 
+## Tools
+- [BlockSec Transaction Visualization](https://versatile.blocksecteam.com/)
+
 ## Training
 - https://academy.fuzzinglabs.com/introduction-to-ethereum-security
 
