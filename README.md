@@ -5,6 +5,8 @@
 - [Solidity Security by Sigp](https://github.com/sigp/solidity-security-blog)
 - [NCC Group Top Dapp Security Issues](https://dasp.co/)
 
+## News
+- https://rekt.news/ (From the Consensys folks)
 
 ## CTF's:
 - https://ethernaut.openzeppelin.com/
