@@ -44,6 +44,19 @@ https://www.sans.org/cyber-security-courses/blockchain-smart-contract-security/
 ### Well-Known Security Failures
 ### Security Tools for Ethereum Smart Contracts 
 
+teEther - Analysis and automatic Exploitation Framework for Ethereum Smart Contracts
+teEther is an analysis tool that can....
+- disassemble EVM bytecode
+- perform backward slicing
+- execute EVM bytecode
+- execute EVM bytecode symbolically
+- plot nice CFGs
+- Create exploits for vulnerable smart contracts
+- Link - https://github.com/nescio007/teether 
+- White-Paper: https://publications.cispa.saarland/2612/1/main.pdf
+- Video: https://www.youtube.com/watch?v=mW4jQzPVP_A
+
+
 ## Attacking and Exploiting Smart Contracts 
 ### Exploiting Ethereum Smart Contracts
 ### Case-Study: The DAO Hack 
