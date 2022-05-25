@@ -11,6 +11,10 @@
 ## Training
 - https://academy.fuzzinglabs.com/introduction-to-ethereum-security
 
+## Common Vuln Types
+### Reentrencry 
+- [CryptoMarketPool - Solidity Reentrancy](https://cryptomarketpool.com/reentrancy-attack-in-a-solidity-smart-contract/)
+
 
 ## News
 - https://rekt.news/ (From the Consensys folks)
