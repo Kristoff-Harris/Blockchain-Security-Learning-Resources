@@ -60,7 +60,11 @@ Ethereum Classic (Aug 1, 2020)
 - Delegated Proof Of Stake (DPoS) - you delegate a set of validators, and then entrust them to vote & produce a set of blocks 
 
 SteemIt
-- Tron and a number of exchanges colluded to vote in a controlling set of validators. First of a kind DPoS attack
+- Tron and a number of exchanges colluded to get a controlling stake  in the SteemIt blockchain. First of a kind DPoS attack
+- Once exchanges got a majority stake of delegated power, they were able to vote in a controlling set of validators. 
+- With being able to set who the validators were, they effectively had full control over the protocol's consensus rules.
+- Then they pushed an updated node software that unfroze funds that were from the initial pre-mine, which gave tron the controlling 
+  asset in the system. They used this to be able to control the protocol indefinitely 
 
 Delegation: 
 
