@@ -17,7 +17,7 @@ https://medium.com/swlh/a-comprehensive-view-of-ethereum-2-0-serenity-5865ad8b7c
 ## Common Vuln Types
 ### Reentrencry 
 - [CryptoMarketPool - Solidity Reentrancy](https://cryptomarketpool.com/reentrancy-attack-in-a-solidity-smart-contract/)
-
+- [Reentrency White Paper](https://arxiv.org/pdf/2105.02881.pdf)
 
 ## News
 - https://rekt.news/ (From the Consensys folks)
