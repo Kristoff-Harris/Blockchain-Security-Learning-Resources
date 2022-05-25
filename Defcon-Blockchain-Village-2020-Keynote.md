@@ -28,7 +28,7 @@ CASHAA - lost 336 BTC because of a personal laptop that was hacked
 ### Exchange Security Insights 
 Are exchanges getting more secure?
 - Decrease in number of incidents since 2019 (4 in 2020, vs 11 in 2019)
-- Decrease in the monetary damage ($4M in 2020 vs $175M in 2019)
+- Decrease in the monetary damage ($4M in 2020 vs $175M in 2019) 
 
 Incident causes could have been avoided
 - BlockFi SIM Swapping, Cashaa unmanaged personal laptop for work
