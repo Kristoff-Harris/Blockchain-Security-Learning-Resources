@@ -1,5 +1,8 @@
 # Solidity Security Learning Resources
 
+# Info on Ethereum 2.0
+https://medium.com/swlh/a-comprehensive-view-of-ethereum-2-0-serenity-5865ad8b7c62
+
 ## Overview of Pervasive Issues
 - [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices)
 - [Solidity Security by Sigp](https://github.com/sigp/solidity-security-blog)
