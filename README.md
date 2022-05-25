@@ -18,6 +18,7 @@ https://medium.com/swlh/a-comprehensive-view-of-ethereum-2-0-serenity-5865ad8b7c
 ### Reentrencry 
 - [CryptoMarketPool - Solidity Reentrancy](https://cryptomarketpool.com/reentrancy-attack-in-a-solidity-smart-contract/)
 - [Reentrency White Paper](https://arxiv.org/pdf/2105.02881.pdf)
+- [Securing.pl - Reentrancy Overview](https://www.securing.pl/pl/reentrancy-attack-in-smart-contracts-is-it-still-a-problem/)
 
 ## News
 - https://rekt.news/ (From the Consensys folks)
