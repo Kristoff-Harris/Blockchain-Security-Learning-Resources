@@ -1,6 +1,12 @@
 
 # Security 
 
+### What is the Mempool?
+https://medium.com/dragonfly-research/we-live-in-a-mempool-backrunning-the-mev-crisis-a4ea0b493b05
+
+### What are Mempool attacks?
+https://cs.ucf.edu/~mohaisen/doc/icbc19a.pdf
+
 ### What is a sybil attack?
 https://academy.binance.com/en/articles/sybil-attacks-explained
 
