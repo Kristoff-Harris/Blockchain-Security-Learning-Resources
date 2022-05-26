@@ -27,6 +27,21 @@ Out of Scope Attacks:
 - Incorrect usage - not understanding protocol quireks such as Ripple's tfPartialPayment
 - Smart Contacts: Layer 2 vulns in Smart contracts, defi, etc...
 
+In Scope: 
+- Implementation - Protocol, software flaws, attack resilience
+- Infrastructure - Underlying OS, network stack
+- Management - Access management, configuration, source control
+
+What's A threat Model?
+- Process to identify potential threats, assess their risk, and prioritize mitigations
+- [OWASP Theat Modeling Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html)
+
+Attack Surface:
+- Sum of different attack vectors with a threat agent can interact with an environment with 
+
+Threat Agent: 
+- An entity that can manifest a threat
+
 3.) Node Security Threat Model 
 
 4.) Node Security Defense Top 10 
