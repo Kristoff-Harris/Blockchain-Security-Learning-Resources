@@ -10,6 +10,10 @@ Intro To Uniswap
 - [Solidity Security by Sigp](https://github.com/sigp/solidity-security-blog)
 - [NCC Group Top Dapp Security Issues](https://dasp.co/)
 
+## Standards 
+- https://cryptoconsortium.org/standards/
+- https://cryptoconsortium.org/certifications/ccssa/
+
 ## Tools
 - [BlockSec Transaction Visualization](https://versatile.blocksecteam.com/)
 
