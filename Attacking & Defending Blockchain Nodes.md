@@ -42,6 +42,10 @@ Attack Surface:
 Threat Agent: 
 - An entity that can manifest a threat
 
+
+![image](https://user-images.githubusercontent.com/25730423/170534821-3e17a821-0aba-4559-a9a8-e4fb2122d5ad.png)
+
+
 3.) Node Security Threat Model 
 
 4.) Node Security Defense Top 10 
