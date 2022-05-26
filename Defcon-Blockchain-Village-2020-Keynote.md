@@ -59,12 +59,59 @@ Ethereum Classic (Aug 1, 2020)
   coins "locked up" provides a benefit such as being awarded currency in exchange for staking.
 - Delegated Proof Of Stake (DPoS) - you delegate a set of validators, and then entrust them to vote & produce a set of blocks 
 
-SteemIt
+### SteemIt
 - Tron and a number of exchanges colluded to get a controlling stake  in the SteemIt blockchain. First of a kind DPoS attack
 - Once exchanges got a majority stake of delegated power, they were able to vote in a controlling set of validators. 
 - With being able to set who the validators were, they effectively had full control over the protocol's consensus rules.
 - Then they pushed an updated node software that unfroze funds that were from the initial pre-mine, which gave tron the controlling 
   asset in the system. They used this to be able to control the protocol indefinitely 
+ 
+### Ethereum - Mempool attack
+Need to learn about this!!!
+
+
+# Node Vulnerabilities 
+
+### Solana 
+March 9 2020
+- Solana testnet node failed to validate transaction signatures. 500M SOL were stolen
+
+### Tendermit 
+- DoS vulnerability when parsing invalid blocks 
+- Resulted in a network halt
+
+### FileCoin 
+- Inflation bug discovered and exploited on testnet. 9B FIL minted.
+
+
+# Wallet Vulnerabilities 
+
+### Ripple - bug in how much you are vouching to send vs how much you send 
+- Incorrect credidation 
+
+### Monery Wallet
+- Monero wallet was incorrectly parsing specially crafted coinbase transactions. 
+- May result in invalid deposits displyed 
+
+### Lightning Network 
+- Vuln Disclosed which coul dlead to channel partner losing BTC
+
+### Argent Wallet
+- Wallet takeover vuln was patched after responsibility disclosed by OpenZeppelin
+- Flaw was in the wallet's functionality which allowed for wallet recovery via Guardian nodes 
+- When Guardian nodes were not well defined, anyone could take over those wallets
+
+# Backdoors (In wallet and node software)
+
+### Trinity Wallet 
+- Wallet backdorred through a 3rd party dependency to steal funds (via key disclosure)
+
+### RavenCoin 
+- Inflation bug emergency patch. Bug was maliciously introduced. 300M RVN minted and sold
+  on exchanges 
+
+
+
 
 Delegation: 
 
