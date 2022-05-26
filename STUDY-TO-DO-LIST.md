@@ -7,6 +7,15 @@ https://medium.com/dragonfly-research/we-live-in-a-mempool-backrunning-the-mev-c
 ### What are Mempool attacks?
 https://cs.ucf.edu/~mohaisen/doc/icbc19a.pdf
 
+### What is a Reentrant Microtrading Attack?
+https://github.com/openzeppelin/exploit-uniswap
+
+### What is Function Clashing?
+https://github.com/tinchoabbate/function-clashing-poc
+
+### How can wallets be back-doored?
+https://blog.openzeppelin.com/backdooring-gnosis-safe-multisig-wallets/
+
 ### What is a sybil attack?
 https://academy.binance.com/en/articles/sybil-attacks-explained
 
