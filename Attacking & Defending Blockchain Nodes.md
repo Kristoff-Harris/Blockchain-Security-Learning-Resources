@@ -71,6 +71,12 @@ Results in unwanted node behavior
 
 ## Node Admin Attack s
 ### Compromised Node Admin
+- Phsihing, Admin messing with debug settings on node, etc...
+
+## Network Infra Exploitation
+(Severity: High, Probability: Medium)
+
+Taking over node's supporting network infra (router, switch, DNS, BGP, etc...) to perform DoS, Eclipse, or other type of attack 
 
 
 
