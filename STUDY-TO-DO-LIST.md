@@ -10,36 +10,46 @@ https://academy.binance.com/en/articles/what-is-a-dusting-attack
 ### Eclipse attack -  
 https://academy.binance.com/en/articles/what-is-an-eclipse-attack
 
-## What is Byzantine Fault Tolerance? 
+### What is Byzantine Fault Tolerance? 
 https://academy.binance.com/en/articles/byzantine-fault-tolerance-explained
 
-### What is a Threshold Signature? https://academy.binance.com/en/articles/threshold-signatures-explained
+### What are common scams on Mobile Devices?
+https://academy.binance.com/en/articles/common-scams-on-mobile-devices
 
-### What is segregated witness? https://academy.binance.com/en/articles/a-beginners-guide-to-segretated-witness-segwit
+### What is a Threshold Signature? 
+https://academy.binance.com/en/articles/threshold-signatures-explained
 
-### What is a multi-sig wallet? https://academy.binance.com/en/articles/what-is-a-multisig-wallet
+### What is segregated witness? 
+https://academy.binance.com/en/articles/a-beginners-guide-to-segretated-witness-segwit
 
-### zk-snarks and zk-starks https://academy.binance.com/en/articles/zk-snarks-and-zk-starks-explained
+### What is a multi-sig wallet? 
+https://academy.binance.com/en/articles/what-is-a-multisig-wallet
 
-### What is Selfish Mining?  https://academy.binance.com/en/articles/selfish-mining-explained
+### zk-snarks and zk-starks 
+https://academy.binance.com/en/articles/zk-snarks-and-zk-starks-explained
+
+### What is Selfish Mining?  
+https://academy.binance.com/en/articles/selfish-mining-explained
 
 
 
-### Schnorr Signatures - https://academy.binance.com/en/articles/what-do-schnorr-signatures-mean-for-bitcoin
+### Schnorr Signatures - 
+https://academy.binance.com/en/articles/what-do-schnorr-signatures-mean-for-bitcoin
 
-### Blockchain Scalability - Sidechains & Payment Channels https://academy.binance.com/en/articles/blockchain-scalability-sidechains-and-payment-channels
+### Blockchain Scalability - Sidechains & Payment Channels 
+https://academy.binance.com/en/articles/blockchain-scalability-sidechains-and-payment-channels
 
 # Coin Tech 
 
-## What is  Tether (USDT) - https://academy.binance.com/en/articles/what-is-tether-usdt
+### What is  Tether (USDT) - https://academy.binance.com/en/articles/what-is-tether-usdt
 
-## What is Coin Burn? https://academy.binance.com/en/articles/what-is-a-coin-burn
+### What is Coin Burn? https://academy.binance.com/en/articles/what-is-a-coin-burn
 
-## What is a layer 2? https://academy.binance.com/en/glossary/layer-2
+### What is a layer 2? https://academy.binance.com/en/glossary/layer-2
 
-## What is the lightning network? - https://academy.binance.com/en/articles/what-is-lightning-network
+### What is the lightning network? - https://academy.binance.com/en/articles/what-is-lightning-network
 
-## What is a Merkle Tree?
+### What is a Merkle Tree?
 - [Merkle Trees and Roots Explained](https://academy.binance.com/en/articles/what-do-schnorr-signatures-mean-for-bitcoin)
 - Merkle tree is created by dividing data into many pieces, which are hashed repeatedly to form the merkle root.
 - This allowas us to efficiently verify if something has gone wrong with a piece of data. 
