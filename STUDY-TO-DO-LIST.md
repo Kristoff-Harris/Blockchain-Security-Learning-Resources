@@ -1,21 +1,33 @@
 
 # Security 
 
-## What is a Threshold Signature? https://academy.binance.com/en/articles/threshold-signatures-explained
+### What is a sybil attack?
+https://academy.binance.com/en/articles/sybil-attacks-explained
 
-## What is segregated witness? https://academy.binance.com/en/articles/a-beginners-guide-to-segretated-witness-segwit
+### What is a dusting attack? 
+https://academy.binance.com/en/articles/what-is-a-dusting-attack
 
-## What is a multi-sig wallet? https://academy.binance.com/en/articles/what-is-a-multisig-wallet
+### Eclipse attack -  
+https://academy.binance.com/en/articles/what-is-an-eclipse-attack
 
-## zk-snarks and zk-starks https://academy.binance.com/en/articles/zk-snarks-and-zk-starks-explained
+## What is Byzantine Fault Tolerance? 
+https://academy.binance.com/en/articles/byzantine-fault-tolerance-explained
 
-## What is Selfish Mining?  https://academy.binance.com/en/articles/selfish-mining-explained
+### What is a Threshold Signature? https://academy.binance.com/en/articles/threshold-signatures-explained
 
-## Eclipse attack -  https://academy.binance.com/en/articles/what-is-an-eclipse-attack
+### What is segregated witness? https://academy.binance.com/en/articles/a-beginners-guide-to-segretated-witness-segwit
 
-## Schnorr Signatures - https://academy.binance.com/en/articles/what-do-schnorr-signatures-mean-for-bitcoin
+### What is a multi-sig wallet? https://academy.binance.com/en/articles/what-is-a-multisig-wallet
 
-## Blockchain Scalability - Sidechains & Payment Channels https://academy.binance.com/en/articles/blockchain-scalability-sidechains-and-payment-channels
+### zk-snarks and zk-starks https://academy.binance.com/en/articles/zk-snarks-and-zk-starks-explained
+
+### What is Selfish Mining?  https://academy.binance.com/en/articles/selfish-mining-explained
+
+
+
+### Schnorr Signatures - https://academy.binance.com/en/articles/what-do-schnorr-signatures-mean-for-bitcoin
+
+### Blockchain Scalability - Sidechains & Payment Channels https://academy.binance.com/en/articles/blockchain-scalability-sidechains-and-payment-channels
 
 # Coin Tech 
 
