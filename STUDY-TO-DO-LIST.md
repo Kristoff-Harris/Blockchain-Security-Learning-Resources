@@ -25,6 +25,9 @@ https://academy.binance.com/en/articles/what-is-a-dusting-attack
 ### Eclipse attack -  
 https://academy.binance.com/en/articles/what-is-an-eclipse-attack
 
+An eclipse attack is an attack where interaction with a previously trusted resource
+becomes controlled by an attacker (ie. BGP reroute, block manip, etc...)
+
 ### What is Byzantine Fault Tolerance? 
 https://academy.binance.com/en/articles/byzantine-fault-tolerance-explained
 
