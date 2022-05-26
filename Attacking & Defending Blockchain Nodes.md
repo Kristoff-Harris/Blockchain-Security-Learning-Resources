@@ -45,6 +45,35 @@ Threat Agent:
 
 ![image](https://user-images.githubusercontent.com/25730423/170534821-3e17a821-0aba-4559-a9a8-e4fb2122d5ad.png)
 
+## Node Software Attacks:
+
+### Protocol Vulns 
+(Sev: High, Probability: Medium):
+- ie Protocol exploit (Send a bad packet to create a buff overflow) 
+- Blockchain specific vulns and implementation flaws (block/tx validation, following correct fork, malivious governance upgrades, inflation bugs, etc...)
+- Malformed block header that creates 
+
+### Generic Software Vulns
+(Sev: High, Probability: High)
+- Exploit software that supports the node implementation 
+- General software vulns in node software, ie... Parity Web Server, EOS DB, MS 
+- Vuln version of NGinx
+
+## Software Repository Attacks
+### Node Repo Compromised 
+(Severity: High, Probability: High)
+Backdoored node software from a compromised or untrusted resource results in unwanted behavior (Monero Key Stealing, Ravencoin Money Printing)
+
+### Software Dependencies 
+(Severity: High, Probability: High)
+Supply chain attack on a critical component of the node software (encryption or consensus lib)
+Results in unwanted node behavior 
+
+## Node Admin Attack s
+### Compromised Node Admin
+
+
+
 
 3.) Node Security Threat Model 
 
