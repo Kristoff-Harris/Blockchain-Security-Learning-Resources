@@ -123,8 +123,15 @@ What's a flash loan?
 - In the event that the transaction reverts, it's no big deal because the attacker can just return the funds
 
 ### Balancer
+- $500k worth of tokens drained from multi-token pools. Bug with deflationary tokens exploited using flash loans.
+- Devs didn't predict that deflationary tokens to change the logic to the attackers advantage...
+- Dismissed a bug bounty 
 
-### Bncor
+What's a deflationary token?
+- Some cryptocurrencies have an unlimited supply of tokens, making them inflactionary, while others have a fixed number
+  of coins in circulation, making them deflationary
+
+### Bancor
 
 
 
