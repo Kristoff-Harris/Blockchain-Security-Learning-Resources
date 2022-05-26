@@ -120,6 +120,7 @@ What's a flash loan?
 - Fees are very low or non-existent for a flash loan (due to limited time of loan), and you can have a huge amout of assets 
   available to you 
 - This breaks the assumption that if an attack is expensive enough to exploit, it's safe...  
+- In the event that the transaction reverts, it's no big deal because the attacker can just return the funds
 
 ### Balancer
 
