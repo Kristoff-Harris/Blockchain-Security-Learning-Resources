@@ -34,6 +34,7 @@ Intro To Uniswap
 - https://ethernaut.openzeppelin.com/
 - https://capturetheether.com/
 - https://github.com/nccgroup/GOATCasino
+- https://www.cobalt.io/blog/capture-the-coin
 
 ## Security Patterns and Ideas for Smart Wallets
 - [Private-Key Phishing Resiliance Idea - Harry](https://steemit.com/ethereum/@sniko/my-attempt-to-prevent-private-key-phishing)
