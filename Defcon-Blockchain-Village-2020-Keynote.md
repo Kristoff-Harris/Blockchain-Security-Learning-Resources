@@ -132,9 +132,38 @@ What's a deflationary token?
   of coins in circulation, making them deflationary
 
 ### Bancor
+- Developers attacked their own coin to secure user funds. Arbitrage bots claimed some bounty for themselves
 
+### Take-Aways
+- Complex interactions between DeFi components introduce new bugs
 
+What is arbitrage?
+- Arbitrage is the simultaneous purchase and sale of the same asset in different markets in order to profit from 
+  tiny differences in the asset's listed price. 
+- This exploits market inefficiencies, ie... short-lived variations in the price of identical or similar financial instruments in different markets 
+  or in different forms
+  
 
+# User Security 
+## Crypto Malware
+- DockerHub - Multiple backdoored docker images uploaded to DockerHub with Monero Miners
+- Super Computers - Five in EU hacked using stolen SSH creds to mine Monero 
+- Lucipher - Windows-based Monero miner
+
+## Ransomware
+- UCSF gave 116 BTC as ransome
+- Canon, many others... 
+
+## Scams
+- Twitter Hack - hackers social engineered their way to getting the internal admin tool creds. Then they impersonated celeberities to 
+  start a fake btc give-away scan 
+  
+- MLM - BitConnect - PulseToken? - Wotoken Scam
+
+- Metamask impersonation (getting user to enter info or interact with part of the page which they THINK is metamask)
+
+- Trust Wallet fake in Google Play store. Harry's epic hack to get users' funds back 
+[Harry Crypto-Interception Counter-Attack](https://medium.com/mycrypto/intercepting-and-saving-5-000-worth-of-phished-crypto-9d2d6db6c527)
 Delegation: 
 
 ## Addendum
