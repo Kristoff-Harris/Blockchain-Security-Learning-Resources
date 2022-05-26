@@ -110,6 +110,20 @@ March 9 2020
 - Inflation bug emergency patch. Bug was maliciously introduced. 300M RVN minted and sold
   on exchanges 
 
+# Layer 2 Issues (Smart Contracts)
+### bZx
+- Margin trading bug exploited resulting in ~1M$ worth of ETH theft. 
+- Flash loans were used to amplify the attack 
+
+What's a flash loan?
+- Basically a loan where you can borrow an asset and return it back to the initial point all within the same transaction 
+- Fees are very low or non-existent for a flash loan (due to limited time of loan), and you can have a huge amout of assets 
+  available to you 
+- This breaks the assumption that if an attack is expensive enough to exploit, it's safe...  
+
+### Balancer
+
+### Bncor
 
 
 
