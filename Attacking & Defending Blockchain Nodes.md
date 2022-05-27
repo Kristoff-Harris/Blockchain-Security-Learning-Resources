@@ -1,5 +1,8 @@
 TODO: Review Rosetta Validator - https://www.rosetta-api.org/docs/1.3.1/validate_correctness.html
+
 TODO: Review Coinbase Salus - https://github.com/coinbase/salus
+
+TODO: Check out GoSec github.com/securego/gosec
 
 Video: https://www.youtube.com/watch?v=ht-oztt7kns
 
