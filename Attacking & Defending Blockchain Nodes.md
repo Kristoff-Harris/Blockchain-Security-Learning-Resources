@@ -1,3 +1,6 @@
+TODO: Review Rosetta Validator - https://www.rosetta-api.org/docs/1.3.1/validate_correctness.html
+TODO: Review Coinbase Salus - https://github.com/coinbase/salus
+
 Video: https://www.youtube.com/watch?v=ht-oztt7kns
 
 1.) How many coins do you have?
@@ -101,3 +104,55 @@ Node Software - Consensus Mechanism Impl Vuln Mitigations
 - Fuzzing of blockchain specific node functionality (e.g. block/tx parsing and verification)
 
 4.) Node Security Defense Top 10 
+
+### 1.) Secure Node Software Repo Handling 
+Repository Pinning - Only connect to repos you trust, and make it manual it change repo
+Version Pinning - Only upgrade to versions which you trust (be deliberate in upgrading)
+verification of Signatures - Ensure that the signature is legitimate 
+
+### 2.) Build all nodes from source
+Software repo has lots of eyes, but when it's built for different OS's, there can be many steps in the binary creation 
+that introduce backdoors. 
+- Many more steps in the process 
+Same thing for CI Automation
+
+### 3.) Securely Configure Nodes
+Diversity Node Connections - diversify the number of connections your node can make, and who it can make those connections to
+- this makes us more resiliant against Eclipse attacks, forks, etc...
+Lock down RPC Interfaces
+- OpenRPC interfaces have been used to steal priv keys
+
+### 4.) Restrict Node Access
+Require consensus for administrative tasks
+- No one can bring up and down nodes arbitrarily, it requires a consensus of people. 
+- More critical infra requires more people
+- Define and enforce admin roles - there should be roles for nodes to be able to do certain actions (princ of least priv)
+- Restrict Internal Traffic (Ingress and Egress) - your nodes could be used as stepping stones to the rest of your network 
+
+### 5.) Monitor and log node activity 
+Investigate network anomalies for Eclipse attacks
+- Am I in right fork? Am I being eclipsed? 
+
+Check on block heights and hashes
+- Are others still seeing the same thing as you?
+- Log all access and network events 
+
+### 6.) Lock down base OS
+Dockerize
+SE Linux or similar 
+
+### 7.) Harden Node's network connections 
+- Harden Network protocols 
+(Tls, DNS-Sec)
+- DoS Protection 
+
+### 8.) Consider Node/Protocol specific threats
+- Stellar trusted nodes configuration 
+- EOS trusted modes
+
+### 9.) Verify node functionality before deployment
+- Rosetta Validator - https://www.rosetta-api.org
+
+
+
+
