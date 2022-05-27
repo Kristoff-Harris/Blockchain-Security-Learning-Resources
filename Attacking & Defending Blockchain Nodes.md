@@ -47,6 +47,12 @@ Threat Agent:
 
 ## Node Software Attacks:
 
+### Consensus mechanism implementation vulnerabilities 
+(Sev: High, Prob: Med)
+
+Blockchain specific vulnerabilities in node software (e.g. block/tx validation, following correct fork, malicious governance upgrade)
+- Looking for implementation flaw
+
 ### Protocol Vulns 
 (Sev: High, Probability: Medium):
 - ie Protocol exploit (Send a bad packet to create a buff overflow) 
@@ -69,7 +75,12 @@ Backdoored node software from a compromised or untrusted resource results in unw
 Supply chain attack on a critical component of the node software (encryption or consensus lib)
 Results in unwanted node behavior 
 
-## Node Admin Attack s
+## Node Host Attacks
+(Sev: High, Prob: low)
+Malware running on the node host can arbitrarily alter node state and behavior including validating false transactions
+injecting false transactions for signing, censoring unwanted transactions, etc..
+
+## Node Admin Attack 
 ### Compromised Node Admin
 - Phsihing, Admin messing with debug settings on node, etc...
 
@@ -82,5 +93,11 @@ Taking over node's supporting network infra (router, switch, DNS, BGP, etc...) t
 
 
 3.) Node Security Threat Model 
+
+Node Software - Consensus Mechanism Impl Vuln Mitigations
+- Functional Audits/Source code review of node software
+- Node behavior validation and testing (e.g. correct handling of valid and invalid blocks and transactions)
+
+- Fuzzing of blockchain specific node functionality (e.g. block/tx parsing and verification)
 
 4.) Node Security Defense Top 10 
