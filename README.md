@@ -42,6 +42,7 @@ https://medium.com/swlh/a-comprehensive-view-of-ethereum-2-0-serenity-5865ad8b7c
 [Securing Smart Contracts with Information Flow](https://www.cs.cornell.edu/~ethan/papers/ifc-contracts-fab20.pdf)
 
 ### Reentrencry 
+- [Tail Call Elimination](https://functional-programming-in-elm.netlify.app/recursion/tail-call-elimination.html)
 - [Compositional Sec for Reentrant Apps](https://www.cs.cornell.edu/~ethan/papers/serif.pdf)
 - [CryptoMarketPool - Solidity Reentrancy](https://cryptomarketpool.com/reentrancy-attack-in-a-solidity-smart-contract/)
 - [Reentrency White Paper](https://arxiv.org/pdf/2105.02881.pdf)
