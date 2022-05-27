@@ -3,6 +3,9 @@
 ## Info on Ethereum 2.0
 https://medium.com/swlh/a-comprehensive-view-of-ethereum-2-0-serenity-5865ad8b7c62
 
+## EVM Security Deep Dives
+[EVM Deep Dives: The Path to Shadowy Super Coder](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy?s=r)
+
 ## Researching Oracle Security 
 [Chainlink 1.0 White Paper](https://research.chain.link/whitepaper-v1.pdf?_ga=2.36644448.1328668382.1653585674-852367589.1653585674)
 [Chainlink 2.0 White Paper](https://research.chain.link/whitepaper-v2.pdf?_ga=2.36644448.1328668382.1653585674-852367589.1653585674)
