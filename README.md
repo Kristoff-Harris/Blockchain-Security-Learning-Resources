@@ -7,13 +7,16 @@ https://medium.com/swlh/a-comprehensive-view-of-ethereum-2-0-serenity-5865ad8b7c
 [EVM Deep Dives: The Path to Shadowy Super Coder](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy?s=r)
 
 [EVM Playground](https://www.evm.codes/playground)
+- Interactive Website to review EVM execution
 
 [EVM Puzzles](https://github.com/fvictorio/evm-puzzles)
+- Test your knowledge!
 
 [Even More EVM Puzzles](https://github.com/daltyboy11/more-evm-puzzles#readme)
+- Test your knowledge!
 
 [EVM Static Analysis](https://github.com/crytic/rattle)
-
+- Tool to assist with EVM Bytecode Review
 
 ## Researching Oracle Security 
 [Chainlink 1.0 White Paper](https://research.chain.link/whitepaper-v1.pdf?_ga=2.36644448.1328668382.1653585674-852367589.1653585674)
