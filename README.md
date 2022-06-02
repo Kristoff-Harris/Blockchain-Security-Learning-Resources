@@ -5,6 +5,7 @@ https://medium.com/swlh/a-comprehensive-view-of-ethereum-2-0-serenity-5865ad8b7c
 
 ## EVM Security Deep Dives
 [EVM Deep Dives: The Path to Shadowy Super Coder](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy?s=r)
+
 [EVM Playground](https://www.evm.codes/playground)
 
 ## Researching Oracle Security 
