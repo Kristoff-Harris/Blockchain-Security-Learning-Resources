@@ -8,6 +8,13 @@ https://medium.com/swlh/a-comprehensive-view-of-ethereum-2-0-serenity-5865ad8b7c
 
 [EVM Playground](https://www.evm.codes/playground)
 
+[EVM Puzzles](https://github.com/fvictorio/evm-puzzles)
+
+[Even More EVM Puzzles](https://github.com/daltyboy11/more-evm-puzzles#readme)
+
+[EVM Static Analysis](https://github.com/crytic/rattle)
+
+
 ## Researching Oracle Security 
 [Chainlink 1.0 White Paper](https://research.chain.link/whitepaper-v1.pdf?_ga=2.36644448.1328668382.1653585674-852367589.1653585674)
 [Chainlink 2.0 White Paper](https://research.chain.link/whitepaper-v2.pdf?_ga=2.36644448.1328668382.1653585674-852367589.1653585674)
