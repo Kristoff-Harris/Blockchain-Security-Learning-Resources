@@ -69,6 +69,7 @@ https://medium.com/swlh/a-comprehensive-view-of-ethereum-2-0-serenity-5865ad8b7c
 - https://capturetheether.com/
 - https://github.com/nccgroup/GOATCasino
 - https://www.cobalt.io/blog/capture-the-coin
+- https://github.com/paradigm-operations/paradigm-ctf-2021
 
 ## Security Patterns and Ideas for Smart Wallets
 - [Private-Key Phishing Resiliance Idea - Harry](https://steemit.com/ethereum/@sniko/my-attempt-to-prevent-private-key-phishing)
