@@ -1,5 +1,8 @@
 # Blockchain Security Learning Resources
 
+## Solidity & Ethereum Application Development Working Group 
+https://www.youtube.com/playlist?list=PLNLh1EyDzSGP-lkNCBhCptoJ-NMu_BYfS
+
 ## Info on Ethereum 2.0
 https://medium.com/swlh/a-comprehensive-view-of-ethereum-2-0-serenity-5865ad8b7c62
 
